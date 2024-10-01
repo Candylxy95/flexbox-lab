@@ -49,6 +49,7 @@ input {
   border-radius: 29px;
   border: 0px;
   padding: 0 24px;
+  margin: 0 auto;
 }
 
 main {
@@ -122,10 +123,6 @@ nav button {
   flex-direction: column;
   justify-content: center;
   row-gap: 15%;
-}
-
-#hero > input {
-  margin: 0 auto;
 }
 
 #trending {
